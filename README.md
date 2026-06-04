@@ -48,5 +48,4 @@ Interesse em construção de APIs, lógica de programação e desenvolvimento de
 <img width="40" src="https://devicon-website.vercel.app/api/npm/original-wordmark.svg"></img>
 <img width="40" src="https://devicon-website.vercel.app/api/intellij/original.svg"></img>
 <img width="40" src="https://devicon-website.vercel.app/api/visualstudio/plain.svg"></img>
-
 </p>
